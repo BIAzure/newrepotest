@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "BLOB_SQL_Pipeline",
 	"properties": {
 		"activities": [
 			{
